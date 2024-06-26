@@ -1,3 +1,9 @@
+import app from "../../public/Images/app.png";
+import align from "../../public/Images/align.png";
+import agree from "../../public/Images/agreement.png";
+import onboard from "../../public/Images/board.png";
+import evaluation from "../../public/Images/eval.png";
+
 function EIR() {
   return (
     <>
@@ -16,6 +22,7 @@ function EIR() {
         </div>
         <div className="grid-4">
           <div className="grid-4-cols">
+            <img src={app} alt="" className="eir-img" />
             <h5 className="h5-header">Application and Selection</h5>
             <p className="innovation-text">
               Begin your journey by completing our straightforward application
@@ -25,6 +32,8 @@ function EIR() {
             </p>
           </div>
           <div className="grid-4-cols">
+            <img src={align} alt="" className="eir-img" />
+
             <h5 className="h5-header">
               Alignment Meeting and Proposal Submission
             </h5>
@@ -38,6 +47,8 @@ function EIR() {
             </p>
           </div>
           <div className="grid-4-cols">
+            <img src={agree} alt="" className="eir-img" />
+
             <h5 className="h5-header">Negotiation and Agreement</h5>
             <p className="innovation-text">
               Upon successful alignment and proposal review, we'll engage in
@@ -53,7 +64,10 @@ function EIR() {
             </p>
           </div>
           <div className="grid-4-cols">
+            <img src={onboard} alt="" className="eir-img" />
+
             <h5 className="h5-header">On Boarding</h5>
+
             <p className="innovation-text">
               Congratulations! As an accepted EIR, you'll undergo an onboarding
               process to familiarize yourself with the SINC Partners ecosystem,
@@ -64,6 +78,8 @@ function EIR() {
             </p>
           </div>
           <div className="grid-4-cols">
+            <img src={evaluation} alt="" className="eir-img" />
+
             <h5 className="h5-header">Regular Check-ins and Evaluations</h5>
             <p className="innovation-text">
               To foster ongoing success, we've established a system for regular
