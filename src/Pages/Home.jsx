@@ -11,7 +11,7 @@ import Investors from "../Features/Investors";
 import Network from "../Features/Network";
 import Portfolio from "../Features/Portfolio";
 import Quote from "../Features/Quote";
-import Hero from "../Features/hero";
+import Hero from "../Features/HeroPage";
 import Footer from "../UI/Footer";
 
 function Home() {
