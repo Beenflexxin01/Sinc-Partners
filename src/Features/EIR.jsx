@@ -1,8 +1,8 @@
-import app from "../../public/Images/app.png";
-import align from "../../public/Images/align.png";
-import agree from "../../public/Images/agreement.png";
-import onboard from "../../public/Images/board.png";
-import evaluation from "../../public/Images/eval.png";
+import app from "/Images/app.png";
+import align from "/Images/align.png";
+import agree from "/Images/agreement.png";
+import onboard from "/Images/board.png";
+import evaluation from "/Images/eval.png";
 
 function EIR() {
   return (

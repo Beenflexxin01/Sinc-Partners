@@ -1,6 +1,6 @@
-import Polygon1 from "../../public/Images/Polygon 1.png";
-import Polygon2 from "../../public/Images/Polygon 2.png";
-import Polygon3 from "../../public/Images/Polygon 3.png";
+import Polygon1 from "/Images/Polygon 1.png";
+import Polygon2 from "/Images/Polygon 2.png";
+import Polygon3 from "/Images/Polygon 3.png";
 function Incubation() {
   return (
     <>

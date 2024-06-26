@@ -1,8 +1,8 @@
-import frame1 from "../../public/Images/frame 1.png";
-import frame from "../../public/Images/frame 2.png";
-import bg1 from "../../public/Images/bg2.png";
-import bg2 from "../../public/Images/bg1.png";
-import bg3 from "../../public/Images/bg3.png";
+import frame1 from "/Images/frame 1.png";
+import frame from "/Images/frame 2.png";
+import bg1 from "/Images/bg2.png";
+import bg2 from "/Images/bg1.png";
+import bg3 from "/Images/bg3.png";
 function Blogs() {
   return (
     <>

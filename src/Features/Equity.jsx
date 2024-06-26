@@ -1,7 +1,7 @@
-import skimake from "../../public/Images/skimake.png";
-import kreeca from "../../public/Images/kreeca.png";
-import krowdback from "../../public/Images/krowdback.png";
-import wettaa from "../../public/Images/wettaa.png";
+import skimake from "/Images/skimake.png";
+import kreeca from "/Images/kreeca.png";
+import krowdback from "/Images/krowdback.png";
+import wettaa from "/Images/wettaa.png";
 function Equity() {
   return (
     <>

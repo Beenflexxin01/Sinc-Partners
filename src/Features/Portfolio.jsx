@@ -1,4 +1,4 @@
-import portfolio from "../../public/Images/Portfolio.png";
+import portfolio from "/Images/Portfolio.png";
 function Portfolio() {
   return (
     <>

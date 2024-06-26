@@ -1,11 +1,11 @@
-import punch from "../../public/Images/punch.png";
-import bjj from "../../public/Images/bjj.png";
-import qntecx from "../../public/Images/qq.png";
-import guardian from "../../public/Images/guardian.png";
-import pun from "../../public/Images/pun.png";
-import bj from "../../public/Images/bj.png";
-import qn from "../../public/Images/qn.png";
-import gd from "../../public/Images/gd.png";
+import punch from "/Images/punch.png";
+import bjj from "/Images/bjj.png";
+import qntecx from "/Images/qq.png";
+import guardian from "/Images/guardian.png";
+import pun from "/Images/pun.png";
+import bj from "/Images/bj.png";
+import qn from "/Images/qn.png";
+import gd from "/Images/gd.png";
 function Featured() {
   return (
     <>

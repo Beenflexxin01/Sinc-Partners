@@ -1,7 +1,7 @@
-import logo from "../../public/Images/footer-logo.png";
-import acc from "../../public/Images/acc.png";
-import whatsapp from "../../public/Images/whatsapp.png";
-import gasus from "../../public/Images/gasus.png";
+import logo from "/Images/footer-logo.png";
+import acc from "/Images/acc.png";
+import whatsapp from "/Images/whatsapp.png";
+import gasus from "/Images/gasus.png";
 import { NavLink } from "react-router-dom";
 import { FaFacebook, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
