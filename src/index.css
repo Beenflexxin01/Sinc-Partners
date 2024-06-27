@@ -26,6 +26,8 @@ li {
 .container {
   margin: 3rem;
   padding: 3rem;
+  margin: auto;
+  padding: auto;
 }
 
 .main-nav-ul,
@@ -359,6 +361,10 @@ li {
   display: grid;
   grid-template-columns: 30% 30% 30% 30% 30%;
   overflow-x: scroll;
+}
+
+.grid-4::-webkit-scrollbar, .grid-_4::-webkit-scrollbar {
+  width: 0;
 }
 
 .grid-4-cols {

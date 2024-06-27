@@ -26,7 +26,7 @@ function Equity() {
             </p>
             <p className="equity-header">Chief Executive Officer</p>
 
-            <div className="grid-2">
+            <div className="grid-2 equity-grid-2">
               <div className="grid-2-cols">
                 <li className="eq-grid op-eq">Location</li>
                 <p className="eq-grid">Abuja, Nigeria</p>
@@ -54,7 +54,7 @@ function Equity() {
             </p>
             <p className="equity-header">UX Strategist</p>
 
-            <div className="grid-2">
+            <div className="grid-2 equity-grid-2">
               <div className="grid-2-cols">
                 <li className="eq-grid op-eq">Location</li>
                 <p className="eq-grid">Abuja, Nigeria</p>
@@ -82,7 +82,7 @@ function Equity() {
             </p>
             <p className="equity-header">CTO & Head of Innovations</p>
 
-            <div className="grid-2">
+            <div className="grid-2 equity-grid-2">
               <div className="grid-2-cols">
                 <li className="eq-grid op-eq">Location</li>
                 <p className="eq-grid">Abuja, Nigeria</p>
@@ -110,7 +110,7 @@ function Equity() {
             </p>
             <p className="equity-header">Backend Developer</p>
 
-            <div className="grid-2">
+            <div className="grid-2 equity-grid-2">
               <div className="grid-2-cols">
                 <li className="eq-grid op-eq">Location</li>
                 <p className="eq-grid">Abuja, Nigeria</p>
