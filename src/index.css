@@ -643,6 +643,11 @@ hr {
   font-weight: 600;
 }
 
+.cl {
+  color: #fff;
+  font-weight: bold;
+}
+
 .deal-nav-li {
   font-size: 1.3rem;
   line-height: 23.4px;

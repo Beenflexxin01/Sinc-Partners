@@ -38,7 +38,7 @@ function Footer() {
             <div className="grid-5-cols">
               <nav className="footer-nav">
                 <ul className="footer-nav-u">
-                  <li className="footer-nav-li">Platforms</li>
+                  <li className="footer-nav-li cl">Platforms</li>
                   <li className="footer-nav-li">Kofoundme</li>
                   <li className="footer-nav-li">InResidency</li>
                   <li className="footer-nav-li">Service Market</li>
@@ -53,7 +53,7 @@ function Footer() {
             <div className="grid-5-cols">
               <nav className="footer-nav">
                 <ul className="footer-nav-u">
-                  <li className="footer-nav-li">Initiatives</li>
+                  <li className="footer-nav-li cl">Initiatives</li>
                   <li className="footer-nav-li">Jabi Plains</li>
                   <li className="footer-nav-li">Local Pricing Initiative</li>
                   <li className="footer-nav-li">Schorlaship Program</li>
@@ -68,7 +68,7 @@ function Footer() {
             <div className="grid-5-cols">
               <nav className="footer-nav">
                 <ul className="footer-nav-u">
-                  <li className="footer-nav-li">About Us</li>
+                  <li className="footer-nav-li cl">About Us</li>
                   <li className="footer-nav-li">Who We Are</li>
                   <li className="footer-nav-li">Our People</li>
                   <li className="footer-nav-li">Concept Innovations</li>
@@ -83,7 +83,7 @@ function Footer() {
             <div className="grid-5-cols">
               <nav className="footer-nav">
                 <ul className="footer-nav-u">
-                  <li className="footer-nav-li">More</li>
+                  <li className="footer-nav-li cl">More</li>
                   <li className="footer-nav-li">Services</li>
                   <li className="footer-nav-li">Equity Jobs</li>
                   <li className="footer-nav-li">EIR Program</li>

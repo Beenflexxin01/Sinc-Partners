@@ -490,6 +490,10 @@
     display: block;
   }
 
+  .grid-5-cols {
+    margin: 2rem 0;
+  }
+
   .final {
     height: 100%;
     margin-bottom: 4rem;
