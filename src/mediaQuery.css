@@ -1,6 +1,6 @@
 @media (max-width: 86em) {
   body {
-    background-color: red;
+    /* background-color: red; */
     overflow-x: hidden;
   }
 
@@ -62,10 +62,10 @@
 }
 
 @media (max-width: 71em) {
-  body {
+  /* body {
     background-color: green;
     overflow-x: hidden;
-  }
+  } */
 
   .burger {
     display: flex;
@@ -239,10 +239,10 @@
 }
 
 @media (max-width: 62em) {
-  body {
+  /* body {
     background-color: grey;
     overflow-x: hidden;
-  }
+  } */
 
   .burger-menu {
     display: flex;
@@ -420,10 +420,10 @@
 }
 
 @media (max-width: 42em) {
-  body {
+  /* body {
     background-color: blue;
     overflow-x: hidden;
-  }
+  } */
 
   .case-li {
     font-size: 1.2rem;
@@ -505,10 +505,10 @@
 }
 
 @media (max-width: 33em) {
-  body {
+  /* body {
     background-color: green;
     overflow-x: hidden;
-  }
+  } */
 
   .grid-_4 {
     grid-template-columns: 80% 80% 80% 80%;
