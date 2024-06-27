@@ -31,13 +31,15 @@ li {
 }
 
 .main-nav-ul,
-.cta-btn {
+.cta-btn,
+.burger-menu,
+.nav-bar {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 1.5rem 3.5rem;
 
-  /* gap: 5rem; */
+  gap: 2rem;
   background-color: #f9f9f9;
 }
 
@@ -48,7 +50,6 @@ li {
 }
 
 .cta-btn {
-  margin: 0 8%;
   gap: 3rem;
 }
 
@@ -363,7 +364,8 @@ li {
   overflow-x: scroll;
 }
 
-.grid-4::-webkit-scrollbar, .grid-_4::-webkit-scrollbar {
+.grid-4::-webkit-scrollbar,
+.grid-_4::-webkit-scrollbar {
   width: 0;
 }
 
