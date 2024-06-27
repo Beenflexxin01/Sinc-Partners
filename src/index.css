@@ -30,6 +30,10 @@ li {
   padding: auto;
 }
 
+.logo {
+  margin-top: 3rem;
+}
+
 .main-nav-ul,
 .cta-btn,
 .burger-menu,

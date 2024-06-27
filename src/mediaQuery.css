@@ -125,7 +125,6 @@
     top: 10.5rem;
     left: 80%;
     width: 20%;
-    /* height: 100vh; */
     align-items: start;
     transition: all 0.3s linear;
     transform: translateY(100%) translate(-100%);
@@ -488,6 +487,10 @@
   .grid-5,
   .grid2 {
     display: block;
+  }
+
+  .footer-nav-li {
+    font-size: 1.4rem;
   }
 
   .grid-5-cols {
