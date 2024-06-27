@@ -31,7 +31,8 @@
   }
 
   .grid--2-cols {
-    margin: 4rem;
+    margin: auto;
+    width: 100%;
   }
 
   .primary-header {
@@ -156,10 +157,6 @@
   .network-grid-2-cols {
     width: 90%;
     margin: 2rem;
-  }
-
-  .grid--2-cols {
-    margin: 2rem 3rem;
   }
 
   .btn {
